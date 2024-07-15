@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new frontend development frameworks.  
   
-
+<br/>
 
 
 ### Education 
@@ -26,7 +26,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+<br/>
 
 ### Frontend  
 <div align="center">  
