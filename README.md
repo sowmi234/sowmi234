@@ -15,7 +15,7 @@
 
 
 
-### Education and Certifications  
+### Education 
 - **Pre-Final Year** in Information Technology, Bannari Amman Institute of Technology  
   
 
