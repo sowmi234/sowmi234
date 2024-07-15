@@ -4,14 +4,19 @@
 
 
 ### About Me!  
-- 🔭 I’m currently working on real-time projects at Zen Hook Agency.
+- 🔭 I’m currently working on real-time projects at Zen Hook Agency.  
   
+
+- 💬 Ask me about anything related to web development, social media management, and machine learning.  
   
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new frontend development frameworks.  
   
 
-- 💬 Ask me about anything related to web development, social media management, and machine learning.  
+
+
+### Education and Certifications  
+- **Pre-Final Year** in Information Technology, Bannari Amman Institute of Technology  
   
 
 <br/>  
@@ -61,6 +66,22 @@
 
 
 ## Connect with me  
+
+
+### Services Provided  
+At Zen Hook Agency, we offer a range of services to help businesses and individuals achieve their digital goals:
+
+- **Web Development**
+  - Custom websites
+  - Responsive design
+  - E-commerce solutions
+
+- **Social Media Management**
+  - Strategy and planning
+  - Content creation
+  - Social media advertising  
+  
+
 <div align="center">
 <a href="https://github.com/sowmi234" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,6 +102,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sowmi234&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
+
+
+### Contact Me!  
+ - **Email:** [sowmiyazen@gmail.com](mailto:sowmiyazen@gmail.com)
+ - **LinkedIn:** https://www.linkedin.com/in/sowmiya-syed/  
   
 
 <br/>  
