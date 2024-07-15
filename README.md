@@ -1,4 +1,4 @@
-### <div align="center">Hi I am Sowmiya V , I am the Co-Founder of Zen Hook Agency.</div>  
+### <div align="center">Hi I am Sowmiya V , Co-Founder of Zen Hook Agency.</div>  
   
 
 
