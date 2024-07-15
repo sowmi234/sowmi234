@@ -66,10 +66,10 @@
 <br/>  
 
 
-## Connect with me  
 
 
-### Services Provided  
+
+## Services Provided  
 At Zen Hook Agency, we offer a range of services to help businesses and individuals achieve their digital goals:
 
 - **Web Development**
@@ -80,8 +80,10 @@ At Zen Hook Agency, we offer a range of services to help businesses and individu
 - **Social Media Management**
   - Strategy and planning
   - Content creation
-  - Social media advertising  
-  
+  - Social media advertising
+ 
+  <br/>
+## Connect with me    
 
 <div align="center">
 <a href="https://github.com/sowmi234" target="_blank">
