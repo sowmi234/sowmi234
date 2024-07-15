@@ -103,10 +103,6 @@ At Zen Hook Agency, we offer a range of services to help businesses and individu
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-
 ### Contact Me!  
  - **Email:** [sowmiyazen@gmail.com](mailto:sowmiyazen@gmail.com)
  - **LinkedIn:** https://www.linkedin.com/in/sowmiya-syed/  
